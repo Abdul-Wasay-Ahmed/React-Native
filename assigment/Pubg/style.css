@@ -1,0 +1,126 @@
+.btn1 {
+    background-color: ghostwhite;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: 0.3s;
+    font-family: monospace;
+    font-size: 150%;
+    position: absolute;
+    top: 30%;
+    left:5%;
+
+}
+
+.btn1:hover {
+    background-color: #2192c9;
+    color: white;
+}
+
+.btn2 {
+    background-color: ghostwhite;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: 0.3s;
+    font-family: monospace;
+    font-size: 150%;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
+
+.btn2:hover {
+    background-color: #2192c9;
+    color: white;
+}
+.btn3 {
+    background-color: ghostwhite;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: 0.3s;
+    font-family: monospace;
+    font-size: 150%;
+    position: absolute;
+    top: 30%;
+    left: 45.5%
+}
+
+.btn3:hover {
+    background-color: #2192c9;
+    color: white;
+}
+
+.btn4 {
+    background-color: ghostwhite;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: 0.3s;
+    font-family: monospace;
+    font-size: 150%;
+    position: absolute;
+    top: 30%;
+    left: 15.5%
+}
+
+.btn4:hover {
+    background-color: #2192c9;
+    color: white;
+}
+.btn5 {
+    background-color: ghostwhite;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: 0.3s;
+    font-family: monospace;
+    font-size: 150%;
+    position: absolute;
+    top: 30%;
+    left: 60%
+}
+
+.btn5:hover {
+    background-color: #2192c9;
+    color: white;
+}
+.btn6 {
+    background-color: ghostwhite;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: 0.3s;
+    font-family: monospace;
+    font-size: 150%;
+    position: absolute;
+    top: 30%;
+    left: 75%
+}
+
+.btn6:hover {
+    background-color: #2192c9;
+    color: white;
+}
+
+
+ 
